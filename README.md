@@ -1,13 +1,13 @@
-## RSA Factoring Challenge
-> This repo is just an attempt to read in and factorize a file of numbers.
+# RSA Factoring Challenge :cat:
+This repo is just an attempt to read in and factorize a file of numbers.
 
-### Description of what each file shows:
-* ```factors``` - the program to factorize (Usage: ```time ./factors tests/test00```)
-* ```tests/test00``` - the file with the numbers
-
+## Description of what each file shows:
+* factors - the program to factorize (Usage: time ./factors tests/test00)
+* tests/test00 - the file with the numbers
 ### Environment
 * Language: Bash script
 * OS: Ubuntu 14.04 LTS
----
-### Authors
-Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
+
+## Author :octocat:
+
+[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
